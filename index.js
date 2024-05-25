@@ -1,3 +1,5 @@
+console.log(true)
+
 const hamburger = document.querySelector('.hamburger')
 const navLinks = document.querySelector('.nav-links')
 const closeButton = document.querySelector('.close-button')
